@@ -15,6 +15,7 @@ import {
   FiTarget,
   FiAward,
   FiMessageCircle,
+  FiPhone,
   FiMapPin,
   FiStar,
 } from "react-icons/fi";
